@@ -1,0 +1,12 @@
+--style=allman
+indent=spaces=4
+align-pointer=name
+align-reference=name
+--pad-oper
+--pad-comma
+--unpad-paren
+--convert-tabs
+-H
+--break-blocks
+--delete-empty-lines
+--add-braces
