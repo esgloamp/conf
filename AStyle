@@ -8,5 +8,4 @@ align-reference=name
 --convert-tabs
 -H
 --break-blocks
---delete-empty-lines
 --add-braces
