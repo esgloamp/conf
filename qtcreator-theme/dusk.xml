@@ -1,4 +1,4 @@
-<!-- Copied from procedural:https://github.com/procedural/qtcreator_themes -->
+<!-- Copied from procedural:https://github.com/procedural/qtcreator_themes/dusk.xml -->
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Dusk">
   <style name="Text" foreground="#fdfbfe" background="#282b35"/>
