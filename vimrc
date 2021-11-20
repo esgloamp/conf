@@ -35,7 +35,7 @@ set laststatus=2
 "显示光标当前位置"
 set ruler
 
-call plug#begin('~/.vim/autoload/Plug.vim')
+"call plug#begin('~/.vim/autoload/Plug.vim')
 "Plug 'ayu-theme/ayu-vim'
 "set termguicolors
 "let ayucolor="light"
@@ -43,7 +43,7 @@ call plug#begin('~/.vim/autoload/Plug.vim')
 "let ayucolor="dark"
 "colorscheme ayu
 
-call plug#end()           
+"call plug#end()           
 
 "括号补全"    
 inoremap( ()<LEFT>
