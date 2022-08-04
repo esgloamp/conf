@@ -94,5 +94,5 @@ function steeef_precmd {
 }
 add-zsh-hook precmd steeef_precmd
 
-PROMPT=$'%{$purple%}%n@%m %{$fg[blue]%}[%{$fg[yellow]%}%D{%X}%{$fg[blue]%}] [%{$fg[yellow]%}%c%{$fg[blue]%}] $vcs_info_msg_0_%{$turquoise%}\
+PROMPT=$'%{$purple%}%n@%m %{$fg[blue]%}[%{$fg[yellow]%}%D{%X}%{$fg[blue]%}] [%{$fg[yellow]%}$PWD%{$fg[blue]%}] $vcs_info_msg_0_%{$turquoise%}\
 💊%{$reset_color%} '
